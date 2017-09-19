@@ -1,0 +1,22 @@
+{
+  "name": "gulp-text",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yy",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.8.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-make-css-url-version": "0.0.13",
+    "gulp-rev": "^8.0.0",
+    "gulp-rev-collector": "^1.2.2",
+    "gulp-uglify": "^2.1.0"
+  }
+}
